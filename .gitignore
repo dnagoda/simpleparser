@@ -1,0 +1,11 @@
+# IntelliJ
+/.bsp/
+/.idea/
+
+# sbt
+/project/
+/target/
+/build/
+
+# mac
+.DS_Store
