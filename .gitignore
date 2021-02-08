@@ -3,9 +3,9 @@
 /.idea/
 
 # sbt
-/project/
-/target/
-/build/
+**/project/
+**/target/
+**/build/
 
 # mac
 .DS_Store
