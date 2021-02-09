@@ -1,6 +1,6 @@
 # simpleparser
 
-A 2 part excercise in parsing files and building REST endpoints.
+A two part exercise in parsing files and building REST endpoints.
 
 ## Setup
 
