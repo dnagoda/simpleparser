@@ -4,11 +4,11 @@ A two part exercise in parsing files and building REST endpoints.
 
 ## Setup
 
-This project using sbt, so the first step is to make sure you have that installed:
+This project uses sbt, so the first step is to make sure you have that installed:
 
 https://www.scala-sbt.org/1.x/docs/Setup.html
 
-Once sbt is installed you can access the cli or api as follows:
+Once sbt is installed you can access the 'cli' or 'api' as follows:
 
 ### CLI
 
