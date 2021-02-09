@@ -29,3 +29,9 @@ or
 Starts a local server at http://localhost:8080.
 
 >sbt "project api" test
+
+## Next Steps
+
+- Add packaging step to produce deployable jars
+- Look into using tapir (https://github.com/softwaremill/tapir) to separate endpoint defintions from logic and to provide API documentation
+- Use more cats (https://typelevel.org/cats/)
