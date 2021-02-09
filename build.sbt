@@ -16,6 +16,11 @@ lazy val commonSettings = Seq(
     "org.scalatest" %% "scalatest-flatspec" % "3.2.2" % "test"
   )
 )
+lazy val root = (project in file(".")).
+  aggregate(core, cli, api).
+  settings(
+     aggregate in run := false
+  )
 
 lazy val core = (project in file("core")).
   settings(
